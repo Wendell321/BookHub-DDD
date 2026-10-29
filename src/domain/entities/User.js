@@ -1,0 +1,1 @@
+// Entidade de domínio User.
